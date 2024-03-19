@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Flags</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="franceEURO">EUR</string>
+    <string name="russhianRUB">RUB</string>
+    <string name="usaDOl">DOl</string>
+    <string name="ukraineGRI">HRY</string>
+
+    <string name="france">France\neuro</string>
+    <string name="russian">Russian\nrouble</string>
+    <string name="usa">Usa\ndollar</string>
+    <string name="ukraine">Ukraine\nhryvnia</string>
+    
+    
+    <string name="Paris">Paris</string>
+    <string name="Moscow">Moscow</string>
+    <string name="Washington">Washington</string>
+    <string name="Kivy">Kivy</string>
+
+    <string name="flag">flag</string>
+</resources>
